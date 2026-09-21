@@ -1,5 +1,7 @@
 # Shaping Skills
 
+NOTE: THESE ARE OBSOLETE! I experimented with these skills back when Opus 4.6 was a frontier model. I haven't used this skills since then.
+
 [Claude Code](https://claude.com/claude-code) skills for shaping and breadboarding — the methodology from [Shape Up](https://basecamp.com/shapeup) adapted for working with an LLM.
 
 **Case study:** [Shaping 0-1 with Claude Code](https://x.com/rjs/status/2020184079350563263) walks through the full process of building a project from scratch using these skills. The source for that project is at [rjs/tick](https://github.com/rjs/tick).
